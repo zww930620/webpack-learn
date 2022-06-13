@@ -1,2 +1,2 @@
 # webpack-learn
-learn to use webpack easily
+learn webpack2022
